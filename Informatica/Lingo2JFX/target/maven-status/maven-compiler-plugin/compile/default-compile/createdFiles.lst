@@ -1,0 +1,5 @@
+module-info.class
+com\mycompany\lingo2jfx\App.class
+com\mycompany\lingo2jfx\CellField.class
+com\mycompany\lingo2jfx\PrimaryController.class
+com\mycompany\lingo2jfx\estraiParolaDaFile.class

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="PrimaryController"
+      spacing="10" padding="10">
+
+    <HBox spacing="10">
+        <TextField fx:id="nomeField" promptText="Nome" />
+        <TextField fx:id="cognomeField" promptText="Cognome" />
+        <TextField fx:id="emailField" promptText="Email" />
+        <TextField fx:id="telefonoField" promptText="Telefono" />
+        <Button text="Salva" onAction="#salvaContatto" />
+    </HBox>
+
+    <ListView fx:id="listView" prefHeight="300" />
+
+</VBox>     

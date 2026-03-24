@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.calcolatrice2.jfx","l":"App"},{"p":"com.mycompany.calcolatrice2.jfx","l":"PrimaryController"}];updateSearchResults();

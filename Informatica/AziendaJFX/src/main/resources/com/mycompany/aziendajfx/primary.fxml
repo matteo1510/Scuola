@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="lbl1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.aziendajfx.PrimaryController">
+   <children>
+      <Button fx:id="btnInvia" layoutX="143.0" layoutY="254.0" mnemonicParsing="false" onAction="#calcola" text="Invia" />
+      <Button fx:id="btnCancella" layoutX="407.0" layoutY="254.0" mnemonicParsing="false" onAction="#cancella" text="Cancella" />
+      <TextField fx:id="textField" alignment="CENTER_RIGHT" layoutX="226.0" layoutY="187.0" />
+      <Label layoutX="93.0" layoutY="191.0" text="Aumento in percentuale" />
+      <Label fx:id="lblRisultato" layoutX="286.0" layoutY="324.0" />
+      <TextField fx:id="TextFieldStipendio" layoutX="226.0" layoutY="119.0" />
+      <TextField fx:id="textFieldNome" layoutX="226.0" layoutY="52.0" />
+      <Label layoutX="97.0" layoutY="56.0" text="Nome dipendente" />
+      <Label layoutX="97.0" layoutY="123.0" text="Stipendio dipendente" />
+      <Label layoutX="375.0" layoutY="190.0" prefHeight="19.0" prefWidth="24.0" text="\%">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

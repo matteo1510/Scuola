@@ -1,0 +1,17 @@
+.game-bg {
+    -fx-background-image: url("sfondo.png");
+    -fx-background-size: cover;
+}
+
+.lblScore {
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+}
+
+.btn1 {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+

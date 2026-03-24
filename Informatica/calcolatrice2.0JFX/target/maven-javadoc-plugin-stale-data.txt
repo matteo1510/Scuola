@@ -1,0 +1,55 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/calcolatrice2.0JFX/target/calcolatrice2.0JFX-1.0-SNAPSHOT.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar'
+--patch-module
+com.mycompany.calcolatrice2.jfx='C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/calcolatrice2.0JFX/src/main/java;C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/calcolatrice2.0JFX/target/generated-sources/annotations'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/calcolatrice2.0JFX/target/reports/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/calcolatrice2.0JFX/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calcolatrice2.0JFX 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/calcolatrice2.0JFX/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'calcolatrice2.0JFX 1.0-SNAPSHOT API'
+com.mycompany.calcolatrice2.jfx
+'C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/calcolatrice2.0JFX/src/main/java/module-info.java'
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\allclasses-index.html = 1770109812226
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\allpackages-index.html = 1770109812239
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\copy.svg = 1770109812415
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\element-list = 1770109811799
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\help-doc.html = 1770109812377
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\index-all.html = 1770109812320
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\index.html = 1770109812342
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\member-search-index.js = 1770109812265
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\module-search-index.js = 1770109812250
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\overview-tree.html = 1770109812094
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\package-search-index.js = 1770109812253
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\script.js = 1770109812399
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\search-page.js = 1770109812441
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\search.html = 1770109812330
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\search.js = 1770109812427
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\stylesheet.css = 1770109812392
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\tag-search-index.js = 1770109812269
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\calcolatrice2.0JFX\target\reports\apidocs\type-search-index.js = 1770109812259

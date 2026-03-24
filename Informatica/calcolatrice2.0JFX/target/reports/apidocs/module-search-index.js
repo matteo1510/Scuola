@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"com.mycompany.calcolatrice2.jfx"}];updateSearchResults();

@@ -1,0 +1,55 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/indovinaNumero/target/indovinaNumero-1.0-SNAPSHOT.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar;C:/Users/matte_hsnnuqj/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar'
+--patch-module
+com.mycompany.indovinanumero='C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/indovinaNumero/src/main/java;C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/indovinaNumero/target/generated-sources/annotations'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/indovinaNumero/target/reports/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/indovinaNumero/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'indovinaNumero 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/indovinaNumero/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'indovinaNumero 1.0-SNAPSHOT API'
+com.mycompany.indovinanumero
+'C:/Users/matte_hsnnuqj/OneDrive/Documenti/NetBeansProjects/indovinaNumero/src/main/java/module-info.java'
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\allclasses-index.html = 1769783224847
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\allpackages-index.html = 1769783224850
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\copy.svg = 1769783225068
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\element-list = 1769783224576
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\help-doc.html = 1769783224987
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\index-all.html = 1769783224970
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\index.html = 1769783224977
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\member-search-index.js = 1769783224857
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\module-search-index.js = 1769783224853
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\overview-tree.html = 1769783224800
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\package-search-index.js = 1769783224854
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\script.js = 1769783225064
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\search-page.js = 1769783225075
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\search.html = 1769783224975
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\search.js = 1769783225072
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\stylesheet.css = 1769783225013
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\tag-search-index.js = 1769783224859
+C:\Users\matte_hsnnuqj\OneDrive\Documenti\NetBeansProjects\indovinaNumero\target\reports\apidocs\type-search-index.js = 1769783224856

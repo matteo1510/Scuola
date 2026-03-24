@@ -1,0 +1,15 @@
+.text-field {
+    -fx-background-color: linear-gradient(to top, #f2d8, #cf2dfd);
+    -fx-text-fill: #000000;
+    -fx-pref-width: 50;
+    -fx-pref-height: 50;
+    -fx-max-width: USE_COMPUTED_SIZE;
+    -fx-max-height: USE_COMPUTED_SIZE;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-border-width: 2;
+    -fx-border-style: solid inside;
+    -fx-border-radius: 7;
+    -fx-background-radius: 7;
+    -fx-border-color: grey;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.control.ProgressBar?>
+
+<AnchorPane fx:id="root"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.mycompany.sparatutto.ShooterGame"
+            prefWidth="900" prefHeight="600"
+            style="-fx-background-color: #2b2b2b;">
+
+    <Rectangle fx:id="player" width="40" height="40" fill="#3fa9f5"
+               layoutX="450" layoutY="300"/>
+
+    <ProgressBar fx:id="healthBar" layoutX="10" layoutY="10"
+                 prefWidth="200" progress="1.0"/>
+
+    <Text fx:id="scoreText" x="10" y="50" fill="white" text="Score: 0"/>
+
+</AnchorPane>

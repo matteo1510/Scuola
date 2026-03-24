@@ -1,0 +1,170 @@
+.root {
+    -fx-background-color: #494949;
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+}
+
+
+#lblRisultato {
+    -fx-background-color: white;
+    -fx-padding: 10;
+    -fx-alignment: BOTTOM_RIGHT;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+
+/* DISPLAY CRONOLOGIA */
+#lblCronologia {
+    -fx-text-fill: #888;
+    -fx-font-size: 10px;
+    -fx-padding: 5 15 0 15;
+    -fx-alignment: BOTTOM_RIGHT;
+}
+
+/* STILE BASE DEI BOTTONI */
+.button {
+    -fx-font-size: 16px;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-cursor: hand;
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #333;
+}
+
+/* HOVER */
+.button:hover {
+    -fx-background-color: #eaeef7;
+}
+
+/* NUMERI */
+.button.numero {
+    -fx-background-color: #ffffff;
+}
+
+/* OPERAZIONI (+ - × ÷) */
+.button.operazione {
+    -fx-background-color: #4f7cff;
+    -fx-text-fill: white;
+}
+
+.button.operazione:hover {
+    -fx-background-color: #3f6ce0;
+}
+
+/* UGUALE */
+.button.uguale {
+    -fx-background-color: #ff9500;
+    -fx-text-fill: white;
+    -fx-font-size: 18px;
+}
+
+.button.uguale:hover {
+    -fx-background-color: #e68500;
+}
+
+/* CANCELLA */
+.button.canc {
+    -fx-background-color: #ff4d4f;
+    -fx-text-fill: white;
+}
+
+.button.canc:hover {
+    -fx-background-color: #e04345;
+}/* ===== SFONDO GENERALE ===== */
+.root {
+    -fx-background-color: #f4f6fb;
+}
+
+/* ===== DISPLAY RISULTATO ===== */
+#lblRisultato {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #4f46e5;
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 10;
+    -fx-text-fill: #1e1e1e;
+}
+
+/* ===== CRONOLOGIA ===== */
+#lblCronologia {
+    -fx-text-fill: #6b7280;
+    -fx-font-size: 14px;
+}
+
+/* ===== STILE GENERICO BOTTONI ===== */
+.button {
+    -fx-background-color: #e5e7eb;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-text-fill: #111827;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #d1d5db;
+}
+
+/* ===== BOTTONI NUMERI ===== */
+.button:text-fill {
+    -fx-text-fill: #111827;
+}
+
+/* ===== BOTTONI OPERAZIONI (+ - * /) ===== */
+.button[text="+"],
+.button[text="-"],
+.button[text="*"],
+.button[text="/"] {
+    -fx-background-color: #6366f1;
+    -fx-text-fill: white;
+}
+
+.button[text="+"]:hover,
+.button[text="-"]:hover,
+.button[text="*"]:hover,
+.button[text="/"]:hover {
+    -fx-background-color: #4f46e5;
+}
+
+/* ===== BOTTONE UGUALE ===== */
+.button[text="="] {
+    -fx-background-color: #22c55e;
+    -fx-text-fill: white;
+}
+
+.button[text="="]:hover {
+    -fx-background-color: #16a34a;
+}
+
+/* ===== BOTTONE CANCELLA ===== */
+.button[text="C"],
+.button[text="CE"] {
+    -fx-background-color: #ef4444;
+    -fx-text-fill: white;
+}
+
+.button[text="C"]:hover,
+.button[text="CE"]:hover {
+    -fx-background-color: #dc2626;
+}
+
+/* ===== BOTTONE PERCENTUALE ===== */
+.button[text="%"] {
+    -fx-background-color: #f59e0b;
+    -fx-text-fill: white;
+}
+
+.button[text="%"]:hover {
+    -fx-background-color: #d97706;
+}
+
+
+/* PERCENTUALE */
+.button.percento {
+    -fx-background-color: #34c759;
+    -fx-text-fill: white;
+}
+
+.button.percento:hover {
+    -fx-background-color: #2fa84f;
+}
